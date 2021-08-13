@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354628100697",
+    "project_id": "dronecloud-56f01",
+    "storage_bucket": "dronecloud-56f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354628100697:android:b524e354908b8b1ecac748",
+        "android_client_info": {
+          "package_name": "com.example.drone_cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354628100697-170kfokaf7v13fb31sl5f1o3v015cqna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdvB6aXgeXRl-kfM8MYCUErmMYTuZhbME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354628100697-170kfokaf7v13fb31sl5f1o3v015cqna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
